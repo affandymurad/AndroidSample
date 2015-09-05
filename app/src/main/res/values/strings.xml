@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwitterAffandy</string>
+    <string name="hello_world">About</string>
+    <string name="action_settings">About</string>
+    <string name="hakcipta">by Affandy Murad.\n© Tuesday, September 1st, 2015.</string>
+    <color name="ColorPrimary">#2196f3</color>
+    <color name="ColorPrimaryDark">#1976d2</color>
+</resources>
